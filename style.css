@@ -1,0 +1,11 @@
+h1{
+color: rgb(255, 0, 17);
+}
+h3{
+    color: darkmagenta;
+}
+body{
+    background-image: url(img/medicamente-publimedia-shutterstock.jpg);
+    background-size: cover;
+    
+}
